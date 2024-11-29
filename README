@@ -1,0 +1,13 @@
+# Analisis Data Pendanaan Startup
+
+Proyek ini berisi analisis data pendanaan startup yang diambil dari Crunchbase. Data ini berisi informasi tentang startup yang pernah mendapatkan pendanaan, termasuk nama startup, tanggal pendanaan, jumlah pendanaan, dan stage pendanaan.
+
+## Cara menjalankan proyek ini
+
+1. Install library yang dibutuhkan dengan menjalankan perintah `pip install -r requirements.txt`
+2. Jalankan notebook `notebook-code.ipynb` dengan menjalankan perintah `jupyter notebook`
+3. Buka notebook `notebook-code.ipynb` di browser dan jalankan secara urut
+
+## Hasil analisis
+
+Hasil analisis data pendanaan startup dapat dilihat di dalam notebook `notebook-code.ipynb`. Hasil analisis ini berisi informasi tentang distribusi pendanaan startup berdasarkan stage, total pendanaan startup, dan peringkat startup berdasarkan total pendanaan.
